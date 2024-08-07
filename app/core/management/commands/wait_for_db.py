@@ -10,3 +10,4 @@ class Command(BaseCommand):
     def handle(self, *args: Any, **options):
         pass
         # return super().handle(*args, **options)
+        
